@@ -10,9 +10,11 @@ scikit-learn
 opencv-python-headless
 Pillow
 matplotlib
+mahotas
 
 # Utilities
 joblib
 tqdm
+
 
 
