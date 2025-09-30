@@ -1,0 +1,16 @@
+# UI
+streamlit
+
+# Core scientific stack
+numpy
+pandas
+scikit-learn
+
+# Computer vision
+opencv-python
+Pillow
+matplotlib
+
+# Utilities
+joblib
+tqdm
