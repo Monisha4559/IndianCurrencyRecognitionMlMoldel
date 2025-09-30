@@ -6,8 +6,8 @@ numpy
 pandas
 scikit-learn
 
-# Computer vision
-opencv-python
+# Computer vision (headless for servers/Streamlit Cloud)
+opencv-python-headless
 Pillow
 matplotlib
 
